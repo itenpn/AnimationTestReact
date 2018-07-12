@@ -1,2 +1,0 @@
-# AnimationTestReact
-Created with CodeSandbox
